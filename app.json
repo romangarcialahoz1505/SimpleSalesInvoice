@@ -1,0 +1,26 @@
+{
+  "id": "6261637c-6485-4cfa-9c74-d489399c2484",
+  "name": "SimpleSalesInvoice",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 55300,
+      "to": 55349
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SimpleSalesInvoice.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
