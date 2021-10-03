@@ -1,5 +1,6 @@
 table 55300 "ALX Sales Header SSS"
 {
+
     Caption = 'ALX Sales Header SSS';
     DataClassification = ToBeClassified;
 
